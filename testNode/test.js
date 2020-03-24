@@ -1,0 +1,1 @@
+console.log("Fichier de test pour vérifier l'install de nodejs");
