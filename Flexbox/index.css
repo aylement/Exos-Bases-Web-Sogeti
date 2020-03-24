@@ -1,30 +1,32 @@
-
-
 .bandeau-haut {
-    margin: 0 0 1em;
-    padding: 1em 0;
-    font-size: 3em;
-    text-align: center;
+  margin: 0 0 1em;
+  padding: 1em 0;
+  font-size: 3em;
+  text-align: center;
 }
 
 .bandeau-haut a {
-    color: white;
-    text-decoration: none;
+  color: white;
+  text-decoration: none;
 }
 
 .bandeau-haut a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
 
 body {
-  background: #ecf0f1;
-  line-height: 1.4;
+background: #ecf0f1;
+line-height: 1.4;
 }
 
 .bandeau-haut {
-	color: white;
+color: white;
 }
-p { color: grey}
+p {
+ color: grey;
+ line-height: 26px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .carte {
 	background: white;
